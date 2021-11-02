@@ -1,2 +1,2 @@
 # gitment-comments
-zhangga.github.io comments
+zhangga.github.io pictures
